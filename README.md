@@ -25,3 +25,6 @@ QuestAutoComplete is a Discord plugin that auto complete your discord quests wit
 ## Notes
 
 - Enbaling **AllowMultipleQuests** can get your account **Flagged as a bot**, use with caution and the knoweldge of knowing that you can get terminated, to avoid this use the **AutoAcceptDelay**
+## Support Server
+- Join the support server if your facing any issues
+- discord.gg/qAMNvBKRtP
